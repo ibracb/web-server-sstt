@@ -32,6 +32,7 @@ web-server-sstt/
 
 ## Installation
 
+Clone the repository:
 ```bash
 git clone https://github.com/ibracb/web-server-sstt.git
 cd web-server-sstt
